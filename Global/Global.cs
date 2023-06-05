@@ -27,12 +27,10 @@ namespace VeteranMode
             }
         }
 
-        // Use a dictionary to keep track of whether each NPC has already been processed or not
         private static Dictionary<int, bool> processedNPCs = new Dictionary<int, bool>();
 
         public override void PostAI(NPC npc)
         {
-            // Check if the flag is already set for this NPC
             if (processedNPCs.ContainsKey(npc.whoAmI) && processedNPCs[npc.whoAmI])
             {
                 return;
@@ -53,13 +51,11 @@ namespace VeteranMode
                 //npc.life = npc.life + 200;
             //}
 
-            // Loop through all players and remove their buffs
             for (int i = 0; i < Main.player.Length; i++)
             {
                 Player player = Main.player[i];
                 if (player.active && !player.dead)
                 {
-                    // Loop through all buff types and remove them from the player
                     //for (int j = 1; j < BuffLoader.BuffCount; j++)
                     //{
                         //if (player.HasBuff(j))
@@ -67,14 +63,12 @@ namespace VeteranMode
                             //player.ClearBuff(j);
                         //}
                     //}
-                    // Remove player's immunity frames
                     player.immuneTime = 0;
                     player.immuneNoBlink = true;
                     player.immune = false;
                 }
             }
             
-            // Set the flag for this NPC to true so it doesn't get processed again
             processedNPCs[npc.whoAmI] = true;
         }
     }
