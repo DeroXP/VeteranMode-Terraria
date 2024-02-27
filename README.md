@@ -1,2 +1,11 @@
-# VeteranMode-Terraria
-Veteran mode is an extra difficulty that is harder than Master mode. It takes all bosses damage and health and doubles it, and adds 5-10 defense to every boss as well. In reward of killing a boss, you earn special items like staffs and accessories that are basically summons of that boss and they fight with you in unique ways.
+# IMPORTANT NOTICE!
+as of Feburary 27, 2024 Veteran Mode is back in full development and development of first release will be coming sooner than expected now that the developers (DeroVB, Maxhax64) are in full collaboration and is so close to bringing Veteran Mode from an dream to reality. We will tell you if personal or development blocks get in the way of development.
+
+The code in main as of now (Feburary 27, 2024) has been unchanged and now will be actually updated regularly to see the progress of Veteran Mode come close to the fisrt release. We have also forgotten to tell you people that we hit a full reset of Veteran Mode about a few months ago we are currently way past caught up, and adding better advancements to oyr code, pixilation, and management. you do have to realize this project is only being done by two developers and won't come out as fast as other Mods/Projects because our team is so small, we plan to keep at just two because of the bond we have and don't plan to spread our team to larger bases as of now (meaning this could change in the future), but now be ready for Veteran Mode's full development to begin as of Feburary 27, 2024.
+
+# Veteran Mode
+The overall theme of Veteran Mode is the extreme enviroment the player(s) are being placed into as enemies and bosses (This does not include friendly Npc's) will be drastically enhance in diffuculty with things like life regenaration, health, damage, defense, and speed are change to be times that of the regular stats, but don't worry as we are in the process of making items and assets to help you through this difficult challenge, for example boss armors and summoners to help you upgrade and continue through your Veteran Mode playthrough. we have also completely deleted immunity frames for an even more challenging experience. there will be only one boss added to this Mod until the next release and we'll also add source code to this github so you can look through this and make your own mods and addons to Veteran Mode, please ensure if you do credit the developers or just put the link to this repository in the description of your mod/addon that uses our code even if you made changes to the code.
+
+# Credits
+DeroVB
+Maxhax64
