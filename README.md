@@ -7,5 +7,5 @@ The code in main as of now (Feburary 27, 2024) has been unchanged and now will b
 The overall theme of Veteran Mode is the extreme enviroment the player(s) are being placed into as enemies and bosses (This does not include friendly Npc's) will be drastically enhance in diffuculty with things like life regenaration, health, damage, defense, and speed are change to be times that of the regular stats, but don't worry as we are in the process of making items and assets to help you through this difficult challenge, for example boss armors and summoners to help you upgrade and continue through your Veteran Mode playthrough. we have also completely deleted immunity frames for an even more challenging experience. there will be only one boss added to this Mod until the next release and we'll also add source code to this github so you can look through this and make your own mods and addons to Veteran Mode, please ensure if you do credit the developers or just put the link to this repository in the description of your mod/addon that uses our code even if you made changes to the code.
 
 # Credits
-DeroVB
+DeroVB,
 Maxhax64
