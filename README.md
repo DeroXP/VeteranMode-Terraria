@@ -8,6 +8,14 @@ Code will only be shown when released and patched updates not while pre-release 
 # Veteran Mode
 The overall theme of Veteran Mode is the extreme environment the player(s) are being placed into as enemies and bosses (This does not include friendly NPCs) will be drastically enhanced in difficulty with things like life regeneration, health, damage, defense, and speed are change to be times that of the regular stats, but don't worry as we are in the process of making items and assets to help you through this difficult challenge, for example boss armors and summoners to help you upgrade and continue through your Veteran Mode playthrough. we have also completely deleted immunity frames for an even more challenging experience. there will be only one boss added to this Mod until the next release and we'll also add source code to this GitHub so you can look through this and make your mods and addons to Veteran Mode, please ensure if you do credit the developers or just put the link to this repository in the description of your mod/addon that uses our code even if you made changes to the code.
 
+# Our Policies
+We don't ask for much here but we do want you to know if you find a bug if its game breaking or not please contact the developers or put it in issuses in this repository, we will hurry to fix this issue as fast as we can to make your Veteran Mode exprience suitable for playablity with annoyances. If you have a complaint about anything our project adds please inform the developers of this to we will review your complaint and if we see it as fit we will either remove this gimick or better it for your exprience with Veteran Mode, but please be patient as it will not be fixed immediatly.
+
+Now on to our stance on use of our assets such as code, sprites, etc. we ask you to please credit us put this in the description of whatever you use our assets in with a link to this repostitory, developers usernames, and the name of our Project. You do NOT have to write this yourself unless you want to but you can simply just do this by going into the "Credit" section below in this README.md file and copying then text from there and pasting it into your descripition of what you are using our assets in, please and thank you.
+
 # Credits
+VETERAN MODE
+https://github.com/DeroXP/VeteranMode-Terraria
+
 DeroVB,
 Maxhax64
