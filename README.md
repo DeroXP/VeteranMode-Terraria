@@ -16,7 +16,8 @@ Now on to our stance on use of our assets such as code, sprites, etc. we ask you
 # Credits
 Contributions From The Authors Of
 
-VETERAN MODE                                                                                                                                                    https://github.com/DeroXP/VeteranMode-Terraria
+VETERAN MODE                                                                                                                                                    
+ https://github.com/DeroXP/VeteranMode-Terraria
 
 DeroVB,
 Maxhax64
