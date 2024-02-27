@@ -14,6 +14,8 @@ We don't ask for much here but we do want you to know if you find a bug if its g
 Now on to our stance on use of our assets such as code, sprites, etc. we ask you to please credit us put this in the description of whatever you use our assets in with a link to this repostitory, developers usernames, and the name of our Project. You do NOT have to write this yourself unless you want to but you can simply just do this by going into the "Credit" section below in this README.md file and copying then text from there and pasting it into your descripition of what you are using our assets in, please and thank you.
 
 # Credits
+Contributions From The Authors Of
+
 VETERAN MODE
 https://github.com/DeroXP/VeteranMode-Terraria
 
