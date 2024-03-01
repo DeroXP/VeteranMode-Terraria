@@ -1,3 +1,5 @@
 so first of all hypothermia, hyperthermia is working alright just a few bugs and its perfect :thumbs_up:
 
 also most or all this text will probably be from me DeroVB
+
+I'm pretty lazy to change all of the code in the main directory so new release of VeteranModes Source code today at March 1, 2024 1:35 PM
