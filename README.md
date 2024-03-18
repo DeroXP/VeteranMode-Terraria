@@ -18,6 +18,8 @@ Moreover we highly value your feedback on any additions made by our project. If 
 Regarding the use of our assets such as code, sprites and other resources we kindly ask for attribution. Simply copy the text from the "Credit" section in this README.md file. Paste it into your description. This should include a link, to this repository, mention of the developers usernames and recognition of the projects name.
 Your recognition of our efforts is crucial and highly appreciated. 
 
+For more information, Please visit our [LICENSE](https://github.com/DeroXP/VeteranMode-Terraria/tree/main?tab=License-1-ov-file)
+
 # Credits
 Contributions From The Authors Of
 
