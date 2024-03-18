@@ -12,7 +12,7 @@ we will stop sharing the process of this masterpiece of a mod after
 maybe version 0.4 or more after that like 0.6 but for now we aren't
 even close to that so it will be fine.
 
-Also link : https://github.com/DeroXP/VeteranMode-Terraria/releases/tag/0.0.9.4
+Also link : [0.0.0.9.4](https://github.com/DeroXP/VeteranMode-Terraria/releases/tag/0.0.9.4)
 
 Now let's talk about some problems so first of all hyper/hypo seems to 
 be bugged but no worries easy fix coming soon enough and will be asking
