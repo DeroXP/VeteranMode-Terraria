@@ -1,5 +1,5 @@
 so first of all hypothermia, hyperthermia is working alright 
-just a few bugs and its perfect :thumbs_up:
+just a few bugs and its perfect :skull:
 
 also most or all this text will probably be from me DeroVB
 
