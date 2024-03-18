@@ -46,4 +46,7 @@ some not will add a config to turn on and off dark humor
 Source code may get to big so i'll try to make it accessible without having
 to download it.
 
-POSTPONED["Roblox project in process."] - March, 18 2024
+only recent and pretty much known to the public code that is correct is in the
+Player folder but everything else not in the mod folder is old and outdated code.
+
+POSTPONED["Roblox project in process."] - March, 18 2024 (Well maybe.)
